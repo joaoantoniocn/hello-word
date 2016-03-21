@@ -1,5 +1,19 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 essa linha foi feita na master
 =======
 adicionei essa linha pela branch testing
 >>>>>>> testing
+=======
+
+
+
+
+
+
+
+
+
+
+adicionei essa linha pela branch testing2
+>>>>>>> testing2
