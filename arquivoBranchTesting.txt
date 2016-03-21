@@ -1,6 +1,1 @@
-<<<<<<< HEAD
 essa linha foi feita na master
-adicionei essa linha pela branch testing
-adicionei essa linha pela branch testing2
-adicionei essa linha pela branch testing mudei de novo
->>>>>>> testing
